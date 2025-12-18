@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:provider/provider.dart';
 
 import 'package:updateweatherapp/provider/provider_page.dart';
@@ -23,3 +24,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
